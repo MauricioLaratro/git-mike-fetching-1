@@ -1,1 +1,2 @@
 Hola mundo remoto 3
+Conseguimos hacer el git checkout MauricioLaratro-patch-3, lo cual hizo que podamos vincular la tercer rama que creamos desde romoto, con nuestro local y asi podemos trabajar en ella. Siendo la unica, ya que remota y remota-2 no la vinculamos haciendo git checkout, entonces la podemos visualizar, pero no estan vincualadas a local por lo tanto no las podemos trabajar
